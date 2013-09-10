@@ -2,4 +2,4 @@
 # -*- coding: UTF-8 -*-
 
 print "Hello, world!"
-print "I love Git!"
+print "I like Git!"
