@@ -3,5 +3,7 @@
 
 import sys
 
-print "Hello, {}!".format(sys.argv[1])
+user_name = sys.argv[1]
+
+print "Hello, {}!".format(user_name)
 print "I love Git!"
